@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="category_Kitchen">Kitchen</string>
+    <string name="category_Bath">Bath</string>
+    <string name="category_Extra">Extra</string>
+    <string name="category_to_buy">To Buy</string>
+</resources>
